@@ -2,3 +2,4 @@
 1. polynomial regressor
 2. support vector regressor
 3. decision tree regressor
+4. random forest regressor
